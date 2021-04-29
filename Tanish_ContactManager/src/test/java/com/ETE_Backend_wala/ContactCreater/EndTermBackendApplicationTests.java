@@ -1,10 +1,10 @@
-package com.example.contactBook;
+package com.ETE_Backend_wala.ContactCreater;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ContactBookApplicationTests {
+class EndTermBackendApplicationTests {
 
 	@Test
 	void contextLoads() {
